@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+	<table name="test">
+		<data>{"sex":"男","age":20.0,"name":"hczoop","money":2000.98,"_uuid":"4d379abd-9ba9-41df-bd56-42eb52e44dd3"}
+		</data>
+	<data>{"sex":"男","age":20.0,"name":"hczoop","money":2000.98,"_uuid":"92b6535c-7d71-4dd5-83e0-b7538c8ba0b8"}</data></table>
+	<table name="system.indexs" />
+	<table name="system.users" />
+</database>
